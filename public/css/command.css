@@ -34,7 +34,9 @@ p{
 }
 .navbar_frame .container {
     padding: 20px 0 14px;
-    background-color:
+
+    display: flex;
+    flex-direction: column;
 }
 .navbar_frame .container .navbar_top {
     width: 100%;
